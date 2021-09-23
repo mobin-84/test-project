@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Vazir";
+    src: url(./Vazir/Vazir-Variable.eot) format("embedded-opentype");
+    src: url(./Vazir/Vazir-Variable.woff2) format("woff2"),
+         url(./Vazir/Vazir-Variable.woff) format("woff"),
+         url(./Vazir/Vazir-Variable.ttf) format("truetype");
+    font-weight: 400;     
+}
+@font-face {
+    font-family: "Vazir-bold";
+    src: url(./Vazir/Vazir-Bold.eot) format("embedded-opentype");
+    src: url(./Vazir/Vazir-Bold.woff2) format("woff2") , 
+         url(./Vazir/Vazir-Bold.woff) format("woff") ,
+         url(./Vazir/Vazir-Bold.ttf) format("truetype");
+    font-weight: 600;     
+}
+@font-face {
+    font-family: "Vazir-thin";
+    src: url(./Vazir/Vazir-Thin.eot) format("embedded-opentype");
+    src: url(./Vazir/Vazir-Thin.woff2) format("woff2") , 
+         url(./Vazir/Vazir-Thin.woff) format("woff") ,
+         url(./Vazir/Vazir-Thin.ttf) format("truetype");
+    font-weight: 100;     
+}
